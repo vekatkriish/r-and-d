@@ -1,0 +1,5 @@
+https://github.com/kubernetes/kops/blob/master/docs/aws.md
+https://docs.aws.amazon.com/sdk-for-go/v1/developer-guide/configuring-sdk.html#specifying-credentials
+https://github.com/kubernetes/kops/blob/master/docs/install.md
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-linux.html
+https://docs.aws.amazon.com/cli/latest/reference/route53/create-hosted-zone.html
