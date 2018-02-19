@@ -3,3 +3,10 @@ https://docs.aws.amazon.com/sdk-for-go/v1/developer-guide/configuring-sdk.html#s
 https://github.com/kubernetes/kops/blob/master/docs/install.md
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-linux.html
 https://docs.aws.amazon.com/cli/latest/reference/route53/create-hosted-zone.html
+
+persistance volume with kubernetes:
+https://icicimov.github.io/blog/virtualization/Kubernetes-shared-storage-with-S3-backend/
+https://blog.couchbase.com/stateful-containers-kubernetes-amazon-ebs/
+https://github.com/ageapps/k8s-storage-buckets
+https://en.wikipedia.org/wiki/Filesystem_in_Userspace
+https://github.com/s3fs-fuse/s3fs-fuse
